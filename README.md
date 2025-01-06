@@ -1,6 +1,6 @@
 # Identificador de Emociones
 
-Este proyecto es una aplicación desarrollada en **Java** para identificar emociones a partir de texto mediante el uso de una API de inteligencia artificial. Fue creado como parte de un proyecto universitario.
+Este proyecto es una aplicación desarrollada en **Java** para identificar emociones a partir de texto mediante el uso de una API de inteligencia artificial. Fue creado como parte de un proyecto propio.
 
 ## Descripción
 
