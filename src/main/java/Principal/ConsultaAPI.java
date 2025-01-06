@@ -11,8 +11,7 @@ import java.nio.charset.StandardCharsets;
 public class ConsultaAPI {
 
     public String Consultar(String textoUsuario) {
-        String apiKey = "Kxad2wFuEQDeRvuEOSgI8uX6FT7TOYN8A7mcrCVn";
-        String apiKe2 = "13k6MC7pf7s3m4EKcNwy6BfqPmK7cADb2rH1HEQ3";
+        String apiKey = "YOUR_API_KEY";
 
         // Endpoint de la API de Cohere para generación de texto
         String endpoint = "https://api.cohere.ai/v1/generate";
